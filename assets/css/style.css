@@ -1,0 +1,20 @@
+body{
+    background-image: url(../images/wallpaper.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(87, 219, 35);
+}
+
+h1{
+    font-size: 37px;
+}
+
+#SearchInput:focus{
+    background-color: #555555;
+    color: white;
+    outline: none;
+}
+
+button{
+    margin: 2px;
+}
